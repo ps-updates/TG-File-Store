@@ -1,5 +1,5 @@
 #pyrofork
-pyrogram==1.4.16
+pyrogram-dev
 Pyromod
 TgCrypto
 motor
