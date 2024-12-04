@@ -1,6 +1,6 @@
 #pyrofork
-PyroXd
-#PyrogramXd
+#PyroXd
+PyrogramXd
 Pyromod
 TgCrypto
 motor
