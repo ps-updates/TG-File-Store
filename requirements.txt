@@ -1,4 +1,5 @@
-pyrofork
+#pyrofork
+pyrogram==1.4.16
 Pyromod
 TgCrypto
 motor
