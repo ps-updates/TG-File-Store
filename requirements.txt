@@ -1,5 +1,5 @@
 #pyrofork
-pyrogram-dev
+PyroXd
 Pyromod
 TgCrypto
 motor
